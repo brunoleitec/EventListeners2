@@ -1,0 +1,5 @@
+name: EventListeners2
+version: '${project.version}'
+main: com.github.brunoleitec.eventlisteners2.EventListeners2
+api-version: 1.19
+description: EventListeners2
